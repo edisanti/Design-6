@@ -11,7 +11,7 @@
 > Some more information about me:
 - I am from a small town about 30 minutes north of Pittsburgh, PA. 
 - I love music! I play the flute, piano, and guitar, and I try to be as involved with music on campus as possible.
-- I like to read. My favorite book that I've read recently is called *The Nightingale* by **Kristen Hannah**
+- I like to read. My favorite book that I've read recently is called *The Nightingale* by **Kristen Hannah** !(bookcover.jpg)
 - I love to spend time outdoors! I like to ski, hike, and go camping!
 
   

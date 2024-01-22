@@ -16,7 +16,7 @@
 - This is one of my favorite songs: [Vienna by Billy Joel](https://youtu.be/wccRif2DaGs?si=bwRwhdobdd0gJAHO).
 
 > Below is one of the first labs we did in CPE 390:
-`
+```
 #include <iostream>
 #include <iomanip>
 #include <cmath>
@@ -158,7 +158,7 @@ int main() {
     
     return 0;
 }
-`
+```
   
 
 

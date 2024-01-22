@@ -2,7 +2,7 @@
 **Design 6 -**
 *This is the first assignment for CPE 322*
 > **My name is Ella DiSanti**
-1. I am a 3/4 ==computer engineering== major.
+1. I am a 3/4 computer engineering major.
 2. In addition to a CPE major, I am also pursuing a math minor.
 3. On campus, I am involved with SWE, Stevens Orchestra, and the school musical.
 

@@ -15,6 +15,8 @@
 - I love to spend time outdoors! I like to ski🎿, hike🌲🥾, and go camping🏕️.
 - This is one of my favorite songs: [Vienna by Billy Joel](https://youtu.be/wccRif2DaGs?si=bwRwhdobdd0gJAHO).
 
+---
+
 > Below is one of the first labs we did in CPE 390:
 ```
 #include <iostream>

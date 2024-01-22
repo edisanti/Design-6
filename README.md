@@ -16,7 +16,8 @@
 - This is one of my favorite songs: [Vienna by Billy Joel](https://youtu.be/wccRif2DaGs?si=bwRwhdobdd0gJAHO).
 
 > Below is one of the first labs we did in CPE 390:
-`#include <iostream>
+`
+#include <iostream>
 #include <iomanip>
 #include <cmath>
 #include <bitset>
@@ -156,7 +157,8 @@ int main() {
     cout << prod(b, sizeof(b)/sizeof(int)) << endl;
     
     return 0;
-}`
+}
+`
   
 
 
